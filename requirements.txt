@@ -1,9 +1,9 @@
-pandas>=1.5.0
-matplotlib>=3.5.0
-seaborn>=0.12.0
-streamlit>=1.20.0
-python-docx>=0.8.11
-openpyxl>=3.0.0
+pandas
+matplotlib
+seaborn
+streamlit
+python-docx
+openpyxl
 notebook
 numpy
 jupyter
